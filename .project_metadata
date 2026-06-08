@@ -1,0 +1,20 @@
+# This file tracks properties of this Flutter project.
+# Used by Flutter tooling to learn about flutter-managed files and settings.
+# For more details, see https://flutter.dev/to/project-marker-file-reference
+
+version:
+  revision: "d211f42860142d49ecff25ba328588f657627347"
+  channel: "stable"
+
+project_type: app
+
+# Tracks metadata associated with this project.
+metadata:
+  version: 1
+  user_version: 1.0.0+1
+  lineage:
+    - roots:
+        - path: .
+          modules:
+            - .android/Flutter
+            - .ios/Flutter
