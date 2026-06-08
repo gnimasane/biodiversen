@@ -2,7 +2,7 @@
 
 Application Flutter pour l'inventaire de la biodiversité des aires protégées du Sénégal, en lien avec l'ODD 15 - Vie terrestre.
 
-## 📱 Fonctionnalités
+##  Fonctionnalités
 
 - **Inventaire biodiversité** : Liste complète des observations de faune et flore
 - **Création d'observation** : Ajouter une nouvelle espèce observée avec validation complète
@@ -44,7 +44,7 @@ L'application démarre avec 5 espèces réelles du Sénégal :
 - **Rônier** - Niokolo-Koba (Non menacée)
 - **Vétiver** - Langue de Barbarie (Non menacée)
 
-## 🎯 Exigences du Barème
+##  Exigences du Barème
 
 | Exigence | Fichier | Justification |
 |----------|---------|---------------|
@@ -64,7 +64,7 @@ L'application démarre avec 5 espèces réelles du Sénégal :
 | Badge menacée | `observation_card.dart` | `BadgeMenacee` widget |
 | Données réelles | `observations_initiales.dart` | 5 espèces du Sénégal |
 
-## 🚀 Installation et Lancement
+##  Installation et Lancement
 
 ```bash
 # Se placer dans le répertoire du projet
@@ -77,7 +77,7 @@ flutter pub get
 flutter run
 ```
 
-## 📹 Code à Expliquer en Vidéo (5 min)
+##  Code à Expliquer en Vidéo (5 min)
 
 1. **Création et suppression avec validation**
    - `_ajouterObservation()` dans `liste_screen.dart`
@@ -97,7 +97,7 @@ flutter run
    - `Navigator.pushNamed(..., arguments: obs)`
    - `ModalRoute.of(context)?.settings.arguments as Observation`
 
-## 📖 Rapport
+## Rapport
 
 Le rapport doit couvrir :
 - Justification de l'architecture (MVC : models + screens + widgets)
