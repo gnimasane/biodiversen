@@ -13,7 +13,7 @@ Application Flutter pour l'inventaire de la biodiversité des aires protégées 
 - **Navigation** : Passage d'arguments entre écrans avec routage nommé
 - **Détail** : Consulter les informations complètes d'une espèce
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 lib/
@@ -31,7 +31,7 @@ lib/
     └── observations_initiales.dart    # 5 espèces du Niokolo-Koba
 ```
 
-## 📊 Données Initiales
+##  Données Initiales
 
 L'application démarre avec 5 espèces réelles du Sénégal :
 
