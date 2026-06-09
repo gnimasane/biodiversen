@@ -33,16 +33,17 @@ lib/
 
 ##  Données Initiales
 
-L'application démarre avec 5 espèces réelles du Sénégal :
+L'application démarre avec 6 espèces réelles documentées sur la Liste Rouge UICN :
 
 ### Faune
-- **Lion d'Afrique** - Niokolo-Koba (Menacée)
-- **Hippotrague rouanne** - Niokolo-Koba (Menacée)
-- **Lamantin d'Afrique** - Langue de Barbarie (Menacée)
+- **Lion d'Afrique** *(Panthera leo)* — Niokolo-Koba — Vulnérable (2025)
+- **Lycaon** *(Lycaon pictus)* — Niokolo-Koba — En danger (2025)
+- **Éléphant de Savane** *(Loxodonta africana)* — Niokolo-Koba — En danger (2020)
+- **Chimpanzé Verus** *(Pan troglodytes)* — Niokolo-Koba — En danger (2016)
 
 ### Flore
-- **Rônier** - Niokolo-Koba (Non menacée)
-- **Vétiver** - Langue de Barbarie (Non menacée)
+- **Rônier** *(Borassus aethiopum)* — Langue de Barbarie — Préoc. mineure (2016)
+- **Fromager** *(Ceiba pentandra)* — Niokolo-Koba — Préoc. mineure (2017)
 
 ##  Exigences du Barème
 
@@ -111,5 +112,5 @@ Le rapport doit couvrir :
 
 **Auteur** : Gnima Sane  
 **Formation** : DAR 2026 — ESMT  
-**Date** : Novembre 2024  
+**Date** : JUIN 20226  
 **ODD** : 15 - Vie terrestre
